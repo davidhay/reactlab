@@ -5,7 +5,10 @@ Graded assignment for [Coursera/Meta - React Basics](https://www.coursera.org/le
 
 ## Instructions
 
-`npm start`
+```
+npm install
+npm start
+```
 
 This should bring up a browser on `localhost:3000`
 
